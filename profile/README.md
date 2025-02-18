@@ -10,7 +10,7 @@
 
 **✅ Стек:**
 
-[![Стек](https://skillicons.dev/icons?i=git,gitlab,docker,rabbitmq,html,css,ts,nodejs,nextjs,cs,dotnet,py,fastapi,linux,bash,postgres,mongodb,redis,sqlite)](https://skillicons.dev)
+[![Стек](https://skillicons.dev/icons?i=git,gitlab,docker,rabbitmq,html,css,ts,nodejs,nextjs,react,cs,dotnet,py,fastapi,linux,bash,postgres,mongodb,redis,sqlite,bots,elasticsearch,grafana,postman,prometheus)](https://skillicons.dev)
 
 **📃 История:**
 
