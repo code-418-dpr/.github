@@ -27,13 +27,13 @@
 
 | ФИ Участника        | Роль в команде       | Проект                   |
 |----------------------|----------------------|---------------------------|
-| Евтушенко Сергей     | TeamLead, Fullstack, DevOps                     |  **Go2City, TicketFlow, SportHub, FSPodium, VZOR AI, KNTista, FSPulse**                         |
+| Евтушенко Сергей     | TeamLead, Fullstack, DevOps                     |  **Go2City, TicketFlow, SportHub, FSPodium, VZOR AI, KNTista, FSPulse, Sakura**                         |
 | Зозуля Михаил        | TeamLead, Fullstack, DevOps, ML                     |      **Go2City, TicketFlow, SportHub, FSPodium, VZOR AI**                        |
 | Рустамов Владислав   | Backend, DevOps                    |     **TicketFlow, SportHub, FSPodium, VZOR AI**                        |
-| Коржов Антон         | Frontend                     |  **Go2City, TicketFlow, SportHub, FSPodium, VZOR AI, FSPulse**                         |
-| Якубенко Вадим       | Frontend                     |  **VZOR AI, FSPulse**                         |
-| Панков Егор          | Frontend                     |  **VZOR AI, FSPulse**                         |
-| Бубнов Георгий   | ML                     |     **FSPulse**                     |
+| Коржов Антон         | Frontend                     |  **Go2City, TicketFlow, SportHub, FSPodium, VZOR AI, FSPulse, Sakura**                         |
+| Якубенко Вадим       | Frontend                     |  **VZOR AI, FSPulse, Sakura**                         |
+| Панков Егор          | Frontend                     |  **Go2City, VZOR AI, FSPulse, Sakura**                         |
+| Бубнов Георгий   | ML                     |     **FSPulse, Sakura**                     |
 | Николаенко Дмитрий   | Presentation                     |     **Go2City, TicketFlow, SportHub, FSPodium**                     |
 
 
